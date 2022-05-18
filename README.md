@@ -6,3 +6,4 @@ Validat0rs either directly, or indirectly, participates on a number of networks.
 - [Crescent](crescent)
 - [JUNO](juno)
 - [Sommelier](sommelier)
+- [Sifchain](sifchain)
