@@ -1,6 +1,6 @@
 # Networks
 
-Public RPC/API endpoints and snapshots Validat0rs runs.
+Public RPC/API endpoints and daily snapshots.
 
 - [CosmosHub](cosmoshub)
 - [Crescent](crescent)
