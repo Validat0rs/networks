@@ -1,6 +1,6 @@
 # Networks
 
-Validat0rs either directly, or indirectly, participates on a number of networks. As such, we provide several pubic services for others to consume accordingly.
+Public RPC/API endpoints and snapshots Validat0rs runs.
 
 - [CosmosHub](cosmoshub)
 - [Crescent](crescent)
