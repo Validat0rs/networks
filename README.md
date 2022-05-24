@@ -7,4 +7,4 @@ Public RPC/API endpoints and daily snapshots.
 - [JUNO](juno)
 - [Sifchain](sifchain)
 - [Sommelier](sommelier)
-- 
+- [Stargaze](stargaze)
